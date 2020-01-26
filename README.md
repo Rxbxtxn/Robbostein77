@@ -10,7 +10,6 @@ Don't copy this code without give me the credits, bitch!
 Youbot is a Shell Script to increase views on Youtube using Tor ips.
 
 Usage:
-git clone https://github.com/thelinuxchoice/youbot
 
 cd youbot
 
