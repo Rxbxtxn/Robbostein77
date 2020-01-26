@@ -21,4 +21,3 @@ Install requirements (xdotool, proxychains, tor):
 
 apt-get install -y xdotool tor proxychains
 
-Donate : 3HubVU3LAaAufrLUY5C1mWZonGzriB9a9E (BTC)
