@@ -11,11 +11,11 @@ Youbot is a Shell Script to increase views on Youtube using Tor ips.
 
 Usage:
 
-cd youbot
+cd Robbostein77
 
 service tor start
 
-sudo ./youbot.sh URL
+sudo ./Robbostein77.sh URL
 
 Install requirements (xdotool, proxychains, tor):
 
